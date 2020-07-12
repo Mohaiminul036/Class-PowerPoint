@@ -1,1 +1,1 @@
-# Class-PowerPoint
+# Class-PowerPoint-Presentation
